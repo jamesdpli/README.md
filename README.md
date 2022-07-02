@@ -3,7 +3,7 @@
 
 🙇🏾 I'm currently training to be a **full stack software engineer**
 
-🌱 I’m currently learning **Kotlin and C#**
+🌱 I’m will be learning **Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
