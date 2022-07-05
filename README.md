@@ -3,7 +3,7 @@
 
 🙇🏾 I'm currently training to be a **full stack software engineer**
 
-🌱 I’m will be learning **Kotlin**
+🌱 I will be learning **Kotlin**
 
 🎮 I'm interested in **Game Development** 
 
