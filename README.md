@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate developer from the UK</h3>
 
-🙇🏾 I'm currently training to be a **full stack software engineer**
+🙇🏾 I'm a software engineer
 
-🌱 I will be learning **Kotlin**
-
-🎮 I'm interested in **Game Development** 
+🌱 I am learning Android Development and C
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
