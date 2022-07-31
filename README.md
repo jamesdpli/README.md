@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate developer from the UK</h3>
 
-🙇🏾 I'm a software engineer
+🙇🏾 I am a software engineer
 
 🌱 I am learning Android Development and C
 
